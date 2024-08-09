@@ -1,17 +1,16 @@
 # Table of contents
 
-* [SaaScape Docs](README.md)
-  * [Getting Started](readme/getting-started.md)
-  * [Features](readme/features/README.md)
-    * [Applications](readme/features/applications/README.md)
-      * [Instances](readme/features/applications/instances.md)
-      * [Versions](readme/features/applications/versions.md)
-      * [Plans](readme/features/applications/plans.md)
-      * [Deployments](readme/features/applications/deployments.md)
-    * [Domains](readme/features/domains.md)
-    * [Servers](readme/features/servers.md)
-    * [Databases](readme/features/databases.md)
-    * [Tenants](readme/features/tenants.md)
+* [Getting Started](README.md)
+* [Features](features/README.md)
+  * [Applications](features/applications/README.md)
+    * [Instances](features/applications/instances.md)
+    * [Versions](features/applications/versions.md)
+    * [Plans](features/applications/plans.md)
+    * [Deployments](features/applications/deployments.md)
+  * [Domains](features/domains.md)
+  * [Servers](features/servers.md)
+  * [Databases](features/databases.md)
+  * [Tenants](features/tenants.md)
 
 ## Group 1
 
