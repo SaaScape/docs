@@ -11,7 +11,3 @@
   * [Servers](features/servers.md)
   * [Databases](features/databases.md)
   * [Tenants](features/tenants.md)
-
-## Group 1
-
-* [Page 2](group-1/page-2.md)
